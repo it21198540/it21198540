@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Praveen Vimod
+BSc(Hons)Information Technology - undergraduate
 
 # 💫 About Me:
 🌱 while ( ! ( succeed = try ( ) ) );<br>📫 How to reach me - praveenvimd02@gmail.com<br>⚡ I am Funny
